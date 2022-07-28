@@ -1,5 +1,4 @@
-*
-!.gitignore
-!data/
-!requirements.txt
-!data_wrangling/"Data wrangling"
+/.ipynb_checkpoints
+/data_wrangling/.ipynb_checkpoints/
+/.DS_Store
+/data_wrangling/.ipynb_checkpoints/Data wrangling-checkpoint.ipynb
